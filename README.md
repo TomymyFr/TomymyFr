@@ -8,8 +8,6 @@ I'm a junior web developper full stack.
 * Javascript
 
 😠 I hate :
-* Symfony
-* SQL
 * Kotlin
 
 ---
